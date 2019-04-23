@@ -1,0 +1,5 @@
+test\demo\service\UserService.class
+test\demo\dao\UserDAO.class
+test\demo\service\impl\UserServiceImpl.class
+test\demo\controller\UserController.class
+test\demo\model\User.class

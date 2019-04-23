@@ -7,7 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>test Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	
 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- spring版本号 -->
 		<spring.version>3.2.4.RELEASE</spring.version>
 		<!-- mybatis版本号 -->
@@ -92,7 +94,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.29</version>
+			<version>8.0.11</version>
 		</dependency>
 		<!-- junit测试包 -->
 		<dependency>
